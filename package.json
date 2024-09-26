@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Arslanabid09.github.io/reactAddTocart",
+  "homepage": "https://Arslanabid09.github.io/React-product-Cart",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

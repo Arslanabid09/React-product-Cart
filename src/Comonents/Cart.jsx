@@ -47,7 +47,7 @@ const Cart = () => {
                     <div className="flex items-center gap-2">
                       <button
                         className="bg-gray-200 text-gray-700 px-2 md:px-3 py-1 rounded-lg font-bold"
-                        
+                        onClick={()=>handleMinus(product.id)}
                       >
                         -
                       </button>
